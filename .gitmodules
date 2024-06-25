@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/galrothschild/finalProjectHackerUBack.git
+[submodule "front"]
+	path = front
+	url = https://github.com/galrothschild/FinalProjectFront.git
